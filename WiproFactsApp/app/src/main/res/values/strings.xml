@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Facts App</string>
+    <string name="fact_title">About Canada</string>
+    <string name="fact_des">Fact Description</string>
+    <string name="fact_image">Fact Image description</string>
+    <string name="on_response">onResponse</string>
+</resources>
